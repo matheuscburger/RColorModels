@@ -1,0 +1,9 @@
+Package: ColorModels
+Title: Diferentes modelos de cores em R
+Description: Funcoes para estudar e trabalhar com modelos de cores em R
+Version: 0.1
+Author: Matheus C. Bürger <matheus.cburger@gmail.com>
+Maintainer: Matheus C. Bürger <matheus.cburger@gmail.com>
+License: GPL
+Collate:
+    'convertColors.R'
